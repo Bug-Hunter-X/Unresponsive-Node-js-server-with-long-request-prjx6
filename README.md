@@ -1,0 +1,1 @@
+This repository demonstrates a common issue in Node.js where a long-running request can block the server and make it unresponsive to other requests. The `bug.js` file showcases the problem. The `bugSolution.js` file offers a solution using asynchronous operations.
